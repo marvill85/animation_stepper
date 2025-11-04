@@ -7,9 +7,8 @@
 - **Custom Stepper UI:** Easily set and manage step options with persistent selection states.  
 - **Scene Filtering:** Automatically detect and handle NURBS curves and constraint nodes.  
 - **Global & Local Modes:** Toggle between selection-based and global step control.  
-- **Utility Functions:** Modular `fps_utils` (or `stepper_utils`) for reusable operations across scripts.  
-- **Hot-Reload Support:** Update scripts without restarting Maya.  
-
+- **Utility Functions:** Modular `fps_utils` (or `stepper_utils`) for reusable operations across scripts.
+- 
 ## Requirements
 
 - Autodesk Maya 2023 or newer  
