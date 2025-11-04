@@ -1,5 +1,5 @@
 # ============================================================
-# Maya FPS Mask
+# Maya FPS [stepper] Mask
 # ============================================================
 # Description:
 #     A custom Maya Python toolkit designed to manage and control
