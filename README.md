@@ -1,6 +1,6 @@
 # Maya Stepper Mask
 
-**Maya Stepper Mask** is a Python toolkit for Autodesk Maya that simplifies frame stepping management and scene control. It provides a customizable UI, utility functions, and smart filtering for NURBS and constraint nodes, helping artists and technical directors streamline stepper workflows in Maya.
+**Maya Stepper Mask** is a Python toolkit for Autodesk Maya that simplifies frame stepping management and scene control. It provides a customizable UI, utility functions, and smart filtering for NURBS and constraint nodes, helping artists and technical directors streamline fps workflows in Maya.
 
 ## Features
 
